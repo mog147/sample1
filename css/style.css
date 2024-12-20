@@ -153,7 +153,7 @@ div[class$="__text"],
   position: relative;
   height:100vh;/*各スライダー全体の縦幅を画面の高さいっぱい（100vh）にする*/
   background-repeat: no-repeat;/*背景画像をリピートしない*/
-  background-position: center top;/*背景画像の位置を中央に*/
+  background-position: center center;/*背景画像の位置を中央に*/
   background-size: cover;/*背景画像が.slider-item全体を覆い表示*/
   margin: 0;
 }
