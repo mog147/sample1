@@ -127,7 +127,7 @@ div[class$="__text"],
   position:relative;
   z-index: 1;
   /*↑z-indexの値をh1のz-indexの値よりも小さくして背景に回す*/
-  height: 100vh;/*スライダー全体の縦幅を画面の高さいっぱい（100vh）にする*/
+  height: 110vh;/*スライダー全体の縦幅を画面の高さいっぱい（100vh）にする*/
   min-height: 400px;
   padding: 0;
   margin: 0;
