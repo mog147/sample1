@@ -127,7 +127,7 @@ div[class$="__text"],
   position:relative;
   z-index: 1;
   /*↑z-indexの値をh1のz-indexの値よりも小さくして背景に回す*/
-  height: 110vh;/*スライダー全体の縦幅を画面の高さいっぱい（100vh）にする*/
+  height: 130vh;/*スライダー全体の縦幅を画面の高さいっぱい（100vh）にする*/
   min-height: 400px;
   padding: 0;
   margin: 0;
@@ -151,7 +151,7 @@ div[class$="__text"],
 [class^="slider-item"],
 [class*=" slider-item"]{
   position: relative;
-  height:110vh;/*各スライダー全体の縦幅を画面の高さいっぱい（100vh）にする*/
+  height:130vh;/*各スライダー全体の縦幅を画面の高さいっぱい（100vh）にする*/
   background-repeat: no-repeat;/*背景画像をリピートしない*/
   background-position: center center;/*背景画像の位置を中央に*/
   background-size: cover;/*背景画像が.slider-item全体を覆い表示*/
