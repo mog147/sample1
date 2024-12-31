@@ -48,6 +48,8 @@ p{
   font-family: "hiragino-kaku-gothic-pron", sans-serif;
   font-weight: 300;
   font-style: normal;
+  letter-spacing: 0.3rem;
+  margin: 0.35em 0px;
 }
 
 /** クラス指定の末尾の文字列が[__text]だったら*/

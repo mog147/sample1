@@ -394,6 +394,10 @@ section{
     background-image:url(../img/header_phone3.png);
   }
 
+  [class^="slider-item"], [class*=" slider-item"]{
+    height: 165vh;
+  }
+
   /*　conA　*/
   /* --------------------------------- */
 
