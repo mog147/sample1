@@ -65,6 +65,7 @@
 [class*=" slider-item"]{
   position: relative;
   height:110vh;/*各スライダー全体の縦幅を画面の高さいっぱい（100vh）にする*/
+  min-height: 1080px;
   width: 100%;
   background-repeat: no-repeat;/*背景画像をリピートしない*/
   background-position: center top;/*背景画像の位置を中央に*/
