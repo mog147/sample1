@@ -98,10 +98,7 @@
 /*ドットナビゲーションの設定*/
 
 .slick-dots {
-  position:relative;
-  text-align:center;
-  margin:2rem 1rem 0 0;
-  padding: 0;
+  display: none;
 }
 
 .slick-dots li {
