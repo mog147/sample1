@@ -98,7 +98,7 @@
 /*ドットナビゲーションの設定*/
 
 .slick-dots {
-  display: none;
+  display: none!important;
 }
 
 .slick-dots li {

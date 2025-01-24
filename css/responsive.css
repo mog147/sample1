@@ -59,10 +59,7 @@ section{
   margin: 1rem 0;
 }
 
-  .slick-dots button {
-  width: 2px;   /*ドットボタンの幅*/
-  height: 12px; /*ドットボタンの高さ*/
-  }
+
 
 /* title */
 /* --------------------------------- */
